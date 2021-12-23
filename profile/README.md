@@ -2,10 +2,11 @@
 
 
 
-**Here are some ideas to get you started:**
+**This is a repository of code for programming subjects.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
+- 🧠 Shared by everyone.
+- 🤙 Anyone can contribute to this repository , by creating new issues with your name, or if you are on the discord server you can tag me.
+
+> ***💝 You can view the document more simply by visiting the [Website]('https://fithou-underworld.github.io/').***
+
+***Thank you for reading***
